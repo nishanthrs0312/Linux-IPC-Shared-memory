@@ -120,8 +120,8 @@ int main() {
 
 
 
-## OUTPUT
-![output](<Screenshot at 2026-08-22 07-26-50.png>)
+## OUTPUT<img width="1089" height="1444" alt="image" src="https://github.com/user-attachments/assets/2f28a1d7-98bf-4d1a-aa87-c79ae91cf779" />
+
 
 # RESULT:
 The program is executed successfully.
